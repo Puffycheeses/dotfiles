@@ -50,7 +50,8 @@ pacman -Syu firefox pamixer pulseaudio pavucontrol gvim discord steam wine wine-
 - [ ] Windows dont snap
 
 ### Things to customise
-- [ ] Notifications are too big
-- [ ] Default Polybar is gross
-- [ ] Application launcher/bar is gross
+Most of these were fixed by swapping to XFCE from OpenBox. I've installed Chicago95 for now however I would like to customise it a bit
+- [X] Notifications are too big
+- [X] Default Polybar is gross
+- [X] Application launcher/bar is gross
 - [X] Conky 🤮
