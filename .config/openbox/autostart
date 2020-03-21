@@ -27,7 +27,7 @@ sleep 1; polybar -c ~/.config/polybar/config openbox-bar &
 sleep 1; manjaro-tint2-session &
 
 ### launch conky
-manjaro-conky-session &
+# manjaro-conky-session &
 
 ### volumeicon
 sleep 1; volumeicon &

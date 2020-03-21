@@ -51,4 +51,4 @@ pacman -Syu firefox pamixer pulseaudio pavucontrol gvim discord steam wine wine-
 - [ ] Notifications are too big
 - [ ] Default Polybar is gross
 - [ ] Application launcher/bar is gross
-- [ ] Conky 🤮
+- [X] Conky 🤮
