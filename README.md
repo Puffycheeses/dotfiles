@@ -25,9 +25,11 @@ This is the repo containing all my config as well as the steps I took to create 
 | lib32-nvidia-440xx-utils | GTX 1070 Drivers |
 | vulkan-icd-loader | Vulkan Drivers |
 | lib32-vulkan-icd-loader | Vulkan Drivers |
-
+| xfce4 | XFCE DE |
+| xfce4-goodies | XFCE Extras |
+| demnu | Dmenu App launcher |
 ```
-pacman -Syu firefox pamixer pulseaudio pavucontrol gvim discord steam wine wine-gecko wine-mono lutris code noto-fonts-cjk noto-fonts noto-fonts-emoji nvidia-440xx-utils linux419-nvidia-440x lib32-nvidia-440xx-utils vulkan-icd-loader lib32-vulkan-icd-loader
+pacman -Syu firefox pamixer pulseaudio pavucontrol gvim discord steam wine wine-gecko wine-mono lutris code noto-fonts-cjk noto-fonts noto-fonts-emoji nvidia-440xx-utils linux419-nvidia-440x lib32-nvidia-440xx-utils vulkan-icd-loader lib32-vulkan-icd-loader xfce4-goodies xfce4 dmenu
 ```
 
 ## Manual config
